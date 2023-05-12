@@ -4,3 +4,4 @@ node_modules
 ./02-renderToMain/node_modules
 
 ./03-renderToMainBidirectional/node_modules
+./04-mainToRenderer/node_modules
