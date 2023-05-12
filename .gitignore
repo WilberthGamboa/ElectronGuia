@@ -2,3 +2,5 @@
 node_modules
 ./01-exposeInMainWorld/node_modules
 ./02-renderToMain/node_modules
+
+./03-renderToMainBidirectional/node_modules
